@@ -11,6 +11,8 @@ Repository for learning, practicing, and contributing Data Structures & Algorith
 
 <b>Try out project : <a href="https://mrunalinipachpute.github.io/DSA-Patterns-and-Problems/" target="_blank">Click Here</a> </b>
 
+🎃 **Hacktoberfest Contributors**: Check out our [**HACKTOBERFEST.md**](HACKTOBERFEST.md) guide to find easy contribution ideas!
+
 <div align="center">
 
 ![Rainbow Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -255,6 +257,8 @@ This repository is **open for contributions**! If you love DSA and want to help 
 </div>
 
 ## 🎯 Hacktoberfest Guidelines
+
+🎃 **New to Hacktoberfest?** Check out our comprehensive [HACKTOBERFEST.md](HACKTOBERFEST.md) guide for detailed contribution ideas and step-by-step instructions!
 
 - Repo must be **public** and tagged `hacktoberfest`
 - PRs must be **valid contributions**
